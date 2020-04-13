@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1586782763 source:e:\github\c_c++\c_cpp_language\pbinfo\#3458 sin_cos\main.cpp
+	<iostream>
+	<math.h>
+

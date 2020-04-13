@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1586782124 source:e:\github\c_c++\c_cpp_language\pbinfo\#2337 coada2\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<typeinfo>
+
